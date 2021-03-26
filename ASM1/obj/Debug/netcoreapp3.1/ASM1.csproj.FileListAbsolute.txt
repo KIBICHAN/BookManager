@@ -1,0 +1,13 @@
+D:\Study\PRN292\ASM1\ASM1\obj\Debug\netcoreapp3.1\ASM1.csprojAssemblyReference.cache
+D:\Study\PRN292\ASM1\ASM1\obj\Debug\netcoreapp3.1\ASM1.AssemblyInfoInputs.cache
+D:\Study\PRN292\ASM1\ASM1\obj\Debug\netcoreapp3.1\ASM1.AssemblyInfo.cs
+D:\Study\PRN292\ASM1\ASM1\obj\Debug\netcoreapp3.1\ASM1.csproj.CoreCompileInputs.cache
+D:\Study\PRN292\ASM1\ASM1\bin\Debug\netcoreapp3.1\ASM1.exe
+D:\Study\PRN292\ASM1\ASM1\bin\Debug\netcoreapp3.1\ASM1.deps.json
+D:\Study\PRN292\ASM1\ASM1\bin\Debug\netcoreapp3.1\ASM1.runtimeconfig.json
+D:\Study\PRN292\ASM1\ASM1\bin\Debug\netcoreapp3.1\ASM1.runtimeconfig.dev.json
+D:\Study\PRN292\ASM1\ASM1\bin\Debug\netcoreapp3.1\ASM1.dll
+D:\Study\PRN292\ASM1\ASM1\bin\Debug\netcoreapp3.1\ASM1.pdb
+D:\Study\PRN292\ASM1\ASM1\obj\Debug\netcoreapp3.1\ASM1.dll
+D:\Study\PRN292\ASM1\ASM1\obj\Debug\netcoreapp3.1\ASM1.pdb
+D:\Study\PRN292\ASM1\ASM1\obj\Debug\netcoreapp3.1\ASM1.genruntimeconfig.cache
